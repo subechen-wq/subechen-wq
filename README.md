@@ -2,7 +2,7 @@
 
 🚀 **專注於醫療自動化、臨床個案管理與肝病風險預測 AI 應用。**
 
-身為一名擁有臨床背景的護理師/個案管理師，我致力於透過 **Python** 與 **數據科學** 解決醫療第一線的痛點。我能跨越「醫學需求」與「技術實作」之間的鴻溝，開發出真正符合工作流程的數位方案。
+「 身為一名擁有臨床背景的護理師/個案管理師，我致力於透過 **Python** 與 **數據科學** 開發出具備實務邏輯的醫療流程改善與醫療決策輔助工具。我了解醫護人員作業上的痛點，並能以技術手段將繁瑣流程自動化，開發出真正符合工作流程的數位方案。」
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 1. 肝癌風險預測模型 (HCC Risk Predictor)
 **定位：學術研究與臨床參考工具**
-- **網址**: [Live Demo](https://hbv-with-low-level-viremia-hcc-risk-predictor.streamlit.app/)
+- **網址**: [Live Demo]([https://github.com/subechen-wq/hcc-risk-predictor](https://github.com/subechen-wq/hcc-risk-predictor))
 - **核心技術**: Streamlit, Machine Learning Model (Scikit-learn)
 - **描述**: 根據國際期刊論文研究成果開發。針對 B 肝低病毒量患者，提供醫師快速計算肝癌風險的科學依據。
 - **亮點**: 純運算不留數據，符合醫療學術研究的嚴謹性。
