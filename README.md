@@ -20,7 +20,7 @@
 
 ### 1. 肝癌風險預測模型 (HCC Risk Predictor)
 **定位：學術研究與臨床參考工具**
-- **網址**: [Live Demo]([https://github.com/subechen-wq/hcc-risk-predictor](https://github.com/subechen-wq/hcc-risk-predictor))
+[Live Demo](https://hcc-risk-predictor-laaavtlojk9bfhctqywxgm.streamlit.app/#b-hcc)
 - **核心技術**: Streamlit, Machine Learning Model (Scikit-learn)
 - **描述**: 根據國際期刊論文研究成果開發。針對 B 肝低病毒量患者，提供醫師快速計算肝癌風險的科學依據。
 - **亮點**: 純運算不留數據，符合醫療學術研究的嚴謹性。
