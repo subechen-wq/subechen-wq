@@ -41,4 +41,5 @@
 ---
 
 ## 📫 聯絡我
+- **LinkedIn**: [https://www.linkedin.com/in/yu-jing-chen-wq/]          
 - **Email**: [subechen@gmail.com]
