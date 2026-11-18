@@ -1,4 +1,4 @@
-# 👋 嗨，我是 [陳昱靜 Chen, Yu-Jing ] | 護理專業背景的開發者 (Nurse & Developer)
+# 👋 嗨，我是 CYJ ] | 護理專業背景的開發者 (Nurse & Developer)
 
 🚀 **專注於醫療自動化、臨床個案管理與肝病風險預測 AI 應用。**
 
